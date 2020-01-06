@@ -10,18 +10,17 @@
     ],
     "sortorder" : -10
   },
-  
   { "id": "actimer",
-  "name": "My Timer",
-  "icon": "my-timer.png",
-  "description": "An Analog Clock",
-  "tags": "",
-  "type":"app",
-  "storage": [
-    {"name":"+actimer","url":"my-timer.json"},
-    {"name":"-actimer","url":"my-timer.js"},
-  ]
-},
+    "name": "My Timer",
+    "icon": "my-timer.png",
+    "description": "An Analog Clock",
+    "tags": "",
+    "type":"app",
+    "storage": [
+      {"name":"+actimer","url":"my-timer.json"},
+      {"name":"-actimer","url":"my-timer.js"},
+    ]
+  },
   { "id": "gbridge",
     "name": "Gadgetbridge",
     "icon": "app.png",
