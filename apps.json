@@ -703,5 +703,16 @@
       {"name":"*centerclock","url":"centerclock-icon.js","evaluate":true}
     ],
     "sortorder" : -9
+  },
+  { "id": "actimer",
+    "name": "My Timer",
+    "icon": "my-timer.png",
+    "description": "An Analog Clock",
+    "tags": "",
+    "type":"app",
+    "storage": [
+      {"name":"+actimer","url":"my-timer.json"},
+      {"name":"-actimer","url":"my-timer.js"},
+    ]
   }
 ]
