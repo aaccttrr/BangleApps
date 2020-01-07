@@ -713,6 +713,7 @@
     "storage": [
       {"name":"+actimer","url":"my-timer.json"},
       {"name":"-actimer","url":"my-timer.js"},
+      {"name":"*actimer","url":"my-timer-icon.js","evaluate":true}
     ]
   }
 ]
