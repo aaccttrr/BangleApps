@@ -704,16 +704,16 @@
     ],
     "sortorder" : -9
   },
-  { "id": "actimer",
+  { "id": "timer",
     "name": "My Timer",
     "icon": "my-timer.png",
     "description": "An Analog Clock",
     "tags": "",
     "type":"app",
     "storage": [
-      {"name":"+actimer","url":"my-timer.json"},
-      {"name":"-actimer","url":"my-timer.js"},
-      {"name":"*actimer","url":"my-timer-icon.js","evaluate":true}
+      {"name":"+timer","url":"my-timer.json"},
+      {"name":"-timer","url":"my-timer.js"},
+      {"name":"*timer","url":"my-timer-icon.js","evaluate":true}
     ]
   }
 ]
