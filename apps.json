@@ -725,7 +725,7 @@
     "storage": [
       {"name":"+react","url":"react.json"},
       {"name":"-react","url":"react.js"},
-      {"name":"*react","url":"react-icon.js","evaluate":true},
+      {"name":"*react","url":"react-icon.js","evaluate":true}
     ]
-  }
+  },
 ]
