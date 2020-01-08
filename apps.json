@@ -715,5 +715,17 @@
       {"name":"-timer","url":"my-timer.js"},
       {"name":"*timer","url":"my-timer-icon.js","evaluate":true}
     ]
+  },
+  { "id": "react",
+    "name": "Reaction Timer",
+    "icon": "react.png",
+    "description": "A Simple Reaction Test.",
+    "tags": "",
+    "type":"app",
+    "storage": [
+      {"name":"+react","url":"react.json"},
+      {"name":"-react","url":"react.js"},
+      {"name":"*react","url":"react-icon.js","evaluate":true},
+    ]
   }
 ]
